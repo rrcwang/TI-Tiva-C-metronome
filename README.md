@@ -1,6 +1,5 @@
-
-
-
+# Tiva C Metronome 
+A metronome built using the TI Tiva-C Series TM4C123GH6PM microcontroller. 
 
 # Attributions
 These resources have been invaluable in my learning process:
