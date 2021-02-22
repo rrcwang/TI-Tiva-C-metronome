@@ -1,0 +1,13 @@
+.\objects\main.o: src\main.c
+.\objects\main.o: H:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\main.o: src\main.h
+.\objects\main.o: H:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\main.o: ./ext/inc/hw_memmap.h
+.\objects\main.o: ./ext/inc/hw_gpio.h
+.\objects\main.o: ./ext/driverlib/pwm.h
+.\objects\main.o: ./ext/driverlib/sysctl.h
+.\objects\main.o: ./ext/driverlib/gpio.h
+.\objects\main.o: ./ext/driverlib/pin_map.h
+.\objects\main.o: ./ext/driverlib/interrupt.h
+.\objects\main.o: ./ext/inc/TM4C123GH6PM.h
+.\objects\main.o: src\BSP/BSP_pll.h

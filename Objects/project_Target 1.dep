@@ -1,0 +1,25 @@
+Dependencies for Project 'project', Target 'Target 1': (DO NOT MODIFY !)
+F (.\src\main.c)(0x6031ABF9)(--c99 -c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork --split_sections -I . -I ./ext -I ./src-II:\projects\TM4C_learning\3_PWM_HAL\RTE-IC:\Users\richw\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-IH:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="521" -DTM4C123GH6PM-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (H:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x574F1116)
+I (src\main.h)(0x6031A8AD)
+I (H:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x574F1116)
+I (./ext/inc/hw_memmap.h)(0x60287AAF)
+I (./ext/inc/hw_gpio.h)(0x60287AAF)
+I (./ext/driverlib/pwm.h)(0x60287A8B)
+I (./ext/driverlib/sysctl.h)(0x60287A8B)
+I (./ext/driverlib/gpio.h)(0x60287A8B)
+I (./ext/driverlib/pin_map.h)(0x60287A8B)
+I (./ext/driverlib/interrupt.h)(0x60287A8B)
+I (./ext/inc/TM4C123GH6PM.h)(0x6031A1EF)
+I (src\BSP/BSP_pll.h)(0x6031A87A)
+F (.\src\startup_rvmdk.s)(0x602C5DCA)(--cpu Cortex-M4.fp --pd "__EVAL SETA 1" -g --apcs=interwork -II:\projects\TM4C_learning\3_PWM_HAL\RTE-IC:\Users\richw\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-IH:\Keil_v5\ARM\CMSIS\Include--pd "__UVISION_VERSION SETA 521" --pd "TM4C123GH6PM SETA 1"--list .\listings\startup_rvmdk.lst --xref -o .\objects\startup_rvmdk.o --depend .\objects\startup_rvmdk.d)
+F (.\ext\driverlib\rvmdk\driverlib.lib)(0x60287A8B)()
+F (.\src\BSP\BSP_gpio.c)(0x6031A8BC)(--c99 -c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork --split_sections -I . -I ./ext -I ./src-II:\projects\TM4C_learning\3_PWM_HAL\RTE-IC:\Users\richw\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-IH:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="521" -DTM4C123GH6PM-o .\objects\bsp_gpio.o --omf_browse .\objects\bsp_gpio.crf --depend .\objects\bsp_gpio.d)
+I (H:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x574F1116)
+I (src\BSP\BSP_gpio.h)(0x6031AA6C)
+F (.\src\BSP\BSP_pll.c)(0x6031ABB8)(--c99 -c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork --split_sections -I . -I ./ext -I ./src-II:\projects\TM4C_learning\3_PWM_HAL\RTE-IC:\Users\richw\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-IH:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="521" -DTM4C123GH6PM-o .\objects\bsp_pll.o --omf_browse .\objects\bsp_pll.crf --depend .\objects\bsp_pll.d)
+I (src\BSP\BSP_pll.h)(0x6031A87A)
+I (H:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x574F1116)
+I (H:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x574F1116)
+I (./ext/inc/TM4C123GH6PM.h)(0x6031A1EF)
+I (./ext/driverlib/sysctl.h)(0x60287A8B)
